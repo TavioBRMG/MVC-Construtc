@@ -1,7 +1,7 @@
 ======== MVC - Construct 1.0.1 ========
 
 Linguagem: Java Versão: 1.0.1 
-Autor: Luiz Otávio 
+Autor: Luiz Otávio\n 
 Distribuição: Livre 
 E-mail: luisotavio.ti@hotmail.com
 
