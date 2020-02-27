@@ -14,7 +14,7 @@ Programa criado com foco em facilitar a criação de projetos na estrutura MVC. 
 Recursos:
 
 º Implementação de Bibliotecas
-º Criação de Estrutura MVC 
-º Checagem de Diretórios
+ º Criação de Estrutura MVC 
+  º Checagem de Diretórios
 
 Última atualização: 24/02/2020
