@@ -24,5 +24,5 @@ Recursos:
 
 
 
-Última atualização: 24/02/2020
+Última atualização: 27/02/2020
 ------------------------------
